@@ -1,4 +1,4 @@
-body {background-color: #e0eae7;
+body {background-color: #e5eced;
     color: #e0eae7; }
     
     h1 {color: #ddc50f;
@@ -9,10 +9,10 @@ body {background-color: #e0eae7;
     
     a:hover {color: #68ffa7;}
     
-    p,ul,td,th {color: #b00ee1;}
+    p,ul,td,th {color:darkblue;}
     
     nav a {color: #ebeff0;
-        background-color: #d628d6; 
+        background-color:midnightblue; 
         padding: 20px;
         margin-bottom: 30px;}
     
