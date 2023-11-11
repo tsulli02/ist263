@@ -1,22 +1,22 @@
 body {background-color: #e0eae7;
     color: #e0eae7; }
     
-    h1 {color: #610C9F;
+    h1 {color: #ddc50f;
         background-color: #295536;}
     
     a{color: #80B3FF;
         background-color: #e0eae7;}
     
-    a:hover {color: #687EFF;}
+    a:hover {color: #68ffa7;}
     
-    p,ul,td,th {color: #610C9F;}
+    p,ul,td,th {color: #b00ee1;}
     
-    nav a {color: #610C9F;
-        background-color: #e0eae7; 
+    nav a {color: #ebeff0;
+        background-color: #d628d6; 
         padding: 20px;
         margin-bottom: 30px;}
     
-        nav a:hover {background-color: #e7f3f7}
+        nav a:hover {background-color: #80B3FF}
 
     .clear1{float:left;}
     .clear2{float:right;}
@@ -56,7 +56,7 @@ body {background-color: #e0eae7;
     justify-content: space-around;
     flex:3;
 }
-   .Otherskills{background-color: blueviolet;
+   .Otherskills{background-color: #610C9F;
     margin: 30px;
     padding:30px;
 border-radius: 1em;
