@@ -22,20 +22,20 @@ body {background-color: #e8d9ee;
     }
 
     h2 {color: #d9a7ee ;
-        background-color: rgb(82, 93, 214);}
+        background-color: rgb(10, 128, 106);}
 
     h3 {color: #d9a7ee ;
-            background-color: rgb(82, 93, 214);}
+            background-color: rgb(10, 128, 106);}
 
             .music-info {
                 color:black
             }
 
     h4 {color: #d9a7ee ;
-                background-color: rgb(82, 93, 214);}
+                background-color: rgb(10, 128, 106);}
                 
      h5 {color: #d9a7ee ;
-          background-color: rgb(55, 69, 224);}
+          background-color: rgb(10, 128, 106);}
 
         .flex-container {
             display:flex;
