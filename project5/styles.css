@@ -2,7 +2,7 @@ body {background-color: #d9a7ee;
     color: #f0f5f7;}
 
     h1 {color: #d9a7ee ;
-        background-color: rgb(200, 236, 200);}
+        background-color: rgb(82, 93, 214);}
 
 
         a:hover {color: rgb(200, 236, 200);}
@@ -22,14 +22,20 @@ body {background-color: #d9a7ee;
     }
 
     h2 {color: #d9a7ee ;
-        background-color: rgb(200, 236, 200);}
+        background-color: rgb(82, 93, 214);}
 
     h3 {color: #d9a7ee ;
-            background-color: rgb(200, 236, 200);}
+            background-color: rgb(82, 93, 214);}
 
             .music-info {
                 color:black
             }
+
+    h4 {color: #d9a7ee ;
+                background-color: rgb(82, 93, 214);}
+                
+     h5 {color: #d9a7ee ;
+          background-color: rgb(82, 93, 214);}
 
         .flex-container {
             display:flex;
