@@ -1,7 +1,7 @@
 body {background-color: #e8d9ee;
     color: #070c45;}
 
-    h1 {color: #e8d9ee ;
+    h1 {color: white ;
         background-color: rgb(10, 128, 106);}
 
 
@@ -21,10 +21,10 @@ body {background-color: #e8d9ee;
     flex:1;
     }
 
-    h2 {color: #e8d9ee ;
+    h2 {color: white ;
         background-color: rgb(10, 128, 106);}
 
-    h3 {color: #e8d9ee ;
+    h3 {color: white ;
             background-color: rgb(10, 128, 106);}
 
             .music-info {
