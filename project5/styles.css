@@ -32,10 +32,13 @@ body {background-color: #e8d9ee;
             }
 
     h4 {color: #e8d9ee ;
-                background-color: rgb(10, 128, 106);}
+                background-color: rgb(10, 128, 106);
+                font-size:larger
+            }
                 
      h5 {color: #e8d9ee;
-          background-color: rgb(10, 128, 106);}
+          background-color: rgb(10, 128, 106);
+        font-size: larger;}
 
         .flex-container {
             display:flex;
