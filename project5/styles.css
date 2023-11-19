@@ -21,20 +21,20 @@ body {background-color: #e8d9ee;
     flex:1;
     }
 
-    h2 {color: #d9a7ee ;
+    h2 {color: #e8d9ee ;
         background-color: rgb(10, 128, 106);}
 
-    h3 {color: #d9a7ee ;
+    h3 {color: #e8d9ee ;
             background-color: rgb(10, 128, 106);}
 
             .music-info {
                 color:black
             }
 
-    h4 {color: #d9a7ee ;
+    h4 {color: #e8d9ee ;
                 background-color: rgb(10, 128, 106);}
                 
-     h5 {color: #d9a7ee ;
+     h5 {color: #e8d9ee;
           background-color: rgb(10, 128, 106);}
 
         .flex-container {
