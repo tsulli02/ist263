@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Hamburger Menu</title>
+        <style>
+            #hamicon {width:40px;}
+            @media only screen and (min-width: 800px) {
+                #hamicon, #close {display:none;}
+            }
+            @media only screen and (max-width:799px) {
+                a {display:block;}
+                a {border: 1px solid #444;}
+                #navicons {display:none;}
+            }
+        </style>
+        <script>
+            function showNav () {
+               document.getElementByID("navicons").style.display="block";
+            }
+            function hideNav () {
+                document.getElementById ("navicons").style.display="none";
+            }
+        </script>
+    </head>
+    <body>
+        <div class="firstrow">
+            <img id="hamicon" src="http://laferger.github.io/ist263/images/hamburger.png"
+            alt="hamburger icon">
+            <p id="close" onclick="hideNav()"> </p>
+        </div>
+        <nav id="navicons">
+            <a href="about.html">About</a>
+            <a href="skills.html">Skills</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </body>
+    </html>
