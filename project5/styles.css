@@ -1,8 +1,10 @@
 body {background-color: #e8d9ee;
-    color: black;}
+    color: black;
+    font-family: 'Roboto Condensed', sans-serif;}
 
     h1 {color: white ;
-        background-color: rgb(10, 128, 106);}
+        background-color: rgb(10, 128, 106);
+        font-family: 'Roboto Condensed', sans-serif;}
 
 
         a:hover {color: rgb(200, 236, 200);}
@@ -19,26 +21,32 @@ body {background-color: #e8d9ee;
         padding:10px;
     border-radius: 1em;
     flex:1;
+    font-family: 'Roboto Condensed', sans-serif;
     }
 
     h2 {color: white ;
-        background-color: rgb(10, 128, 106);}
+        background-color: rgb(10, 128, 106);
+        font-family: 'Roboto Condensed', sans-serif;}
 
     h3 {color: white ;
-            background-color: rgb(10, 128, 106);}
+            background-color: rgb(10, 128, 106);
+            font-family: 'Roboto Condensed', sans-serif;}
 
             .music-info {
-                color:black
+                color:black;
+                font-family: 'Roboto Condensed', sans-serif;
             }
 
     h4 {color: white ;
                 background-color: rgb(10, 128, 106);
                 font-size: 20px;
+                font-family: 'Roboto Condensed', sans-serif;
             }
                 
      h5 {color: white;
           background-color: rgb(10, 128, 106);
-        font-size: 20px;}
+        font-size: 20px;
+        font-family: 'Roboto Condensed', sans-serif;}
 
         .flex-container {
             display:flex;
