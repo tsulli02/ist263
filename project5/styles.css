@@ -1,17 +1,17 @@
-body {background-color: #e8d9ee;
+body {background-color: beige;
     color: black;
     font-family: 'Roboto Condensed', sans-serif;
     font-size:16px;}
 
     h1 {color: white ;
-        background-color: rgb(10, 128, 106);
+        background-color: lightpink;
         font-family: 'Roboto Condensed', sans-serif;
         font-size: 24px;}
 
 
         a:hover {color: rgb(200, 236, 200);}
 
-        p,ul,td,th {color:darkblue;}
+        p,ul,td,th {color: black;}
 
         .clear1{float:left;}
     .clear2{float:right;}
@@ -28,12 +28,12 @@ body {background-color: #e8d9ee;
     }
 
     h2 {color: white ;
-        background-color: rgb(10, 128, 106);
+        background-color: lightpink;
         font-family: 'Roboto Condensed', sans-serif;
     font-size: 24px;}
 
     h3 {color: white ;
-            background-color: rgb(10, 128, 106);
+            background-color: lightpink;
             font-family: 'Roboto Condensed', sans-serif;
         font-size:24px;}
 
@@ -44,13 +44,13 @@ body {background-color: #e8d9ee;
             }
 
     h4 {color: white ;
-                background-color: rgb(10, 128, 106);
+                background-color: lightpink;
                 font-size: 20px;
                 font-family: 'Roboto Condensed', sans-serif;
                 font-size:24px;}
                 
      h5 {color: white;
-          background-color: rgb(10, 128, 106);
+          background-color: lightpink;
         font-size: 24px;
         font-family: 'Roboto Condensed', sans-serif;}
 
@@ -82,55 +82,7 @@ body {background-color: #e8d9ee;
              
         }
 
-        /* Dropdown code */
-
-        body {
-            font-family: 'Roboto Condensed', sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        
-        nav {
-            background-color: rgb(10, 128, 106);
-        }
-        
-        ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            overflow: hidden;
-        }
-        
-        li {
-            float: left;
-        }
-        
-        li a {
-            display: block;
-            color: white;
-            text-align: center;
-            padding: 14px 16px;
-            text-decoration: none;
-        }
-        
-        li a:hover {
-            background-color: rgb(10, 128, 106);
-        }
-        
-        .dropdown {
-            display: inline-block;
-        }
-        
-        .dropdown-content {
-            display: none;
-            position: absolute;
-            background-color: #f9f9f9;
-            box-shadow: 0 8px 16px 0 rgb(10, 128, 106);
-        }
-        
-        .dropdown:hover .dropdown-content {
-            display: block;
-        }
+       
         
     
         
