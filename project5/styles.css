@@ -81,6 +81,57 @@ body {background-color: #e8d9ee;
         @media only screen and (min-width: 601px) {
              
         }
+
+        /* Dropdown code */
+
+        body {
+            font-family: 'Roboto Condensed', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        
+        nav {
+            background-color: rgb(10, 128, 106);
+        }
+        
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        
+        li {
+            float: left;
+        }
+        
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        
+        li a:hover {
+            background-color: rgb(10, 128, 106);
+        }
+        
+        .dropdown {
+            display: inline-block;
+        }
+        
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            box-shadow: 0 8px 16px 0 rgb(10, 128, 106);
+        }
+        
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+        
     
         
 
