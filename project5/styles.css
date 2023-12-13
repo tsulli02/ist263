@@ -3,7 +3,7 @@ body {background-color: beige;
     font-family: 'Roboto Condensed', sans-serif;
     font-size:16px;}
 
-    h1 {color: white ;
+    h1 {color: navy ;
         background-color: lightpink;
         font-family: 'Roboto Condensed', sans-serif;
         font-size: 24px;}
@@ -27,12 +27,12 @@ body {background-color: beige;
     font-size:24px;
     }
 
-    h2 {color: white ;
+    h2 {color: navy ;
         background-color: lightpink;
         font-family: 'Roboto Condensed', sans-serif;
     font-size: 24px;}
 
-    h3 {color: white ;
+    h3 {color: navy;
             background-color: lightpink;
             font-family: 'Roboto Condensed', sans-serif;
         font-size:24px;}
@@ -43,13 +43,13 @@ body {background-color: beige;
                 font-size:24px;
             }
 
-    h4 {color: white ;
+    h4 {color: navy ;
                 background-color: lightpink;
                 font-size: 20px;
                 font-family: 'Roboto Condensed', sans-serif;
                 font-size:24px;}
                 
-     h5 {color: white;
+     h5 {color: navy;
           background-color: lightpink;
         font-size: 24px;
         font-family: 'Roboto Condensed', sans-serif;}
